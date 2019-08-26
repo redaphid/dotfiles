@@ -2,7 +2,7 @@
 [user]
   name = Aaron Herres
   email = iam@aaronherres.com
-  #signingkey
+  signingkey = iam@aaronherres.com
 
 [core]
   editor = vim

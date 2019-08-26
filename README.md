@@ -4,6 +4,8 @@ my dotfiles
 ## Install
 * Install
 [rcm](https://github.com/thoughtbot/rcm)
+[exa](https://the.exa.website/)
+[git-secrets](https://github.com/awslabs/git-secrets)
 
 ## Update  ~/.rcrc
 ```shell
