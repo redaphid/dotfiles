@@ -1,7 +1,7 @@
 [user]
   name = Aaron Herres
   email = iam@aaronherres.com
-  signingkey iam@aaronherres.com
+  signingkey = iam@aaronherres.com
 
 [url "git@github.com:magicverse"]
   insteadOf = https://github.com/magicverse
