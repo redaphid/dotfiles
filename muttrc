@@ -1,5 +1,5 @@
-set realname = "Jade Meskill"
-set from = "jade.meskill@gmail.com"
+set realname = "Aaron Herres"
+set from = "iam@aaronherres.com"
 set use_from = yes
 set envelope_from = yes
 
@@ -11,8 +11,6 @@ set copy = no
 set edit_headers
 unset imap_passive
 
-set smtp_url = "smtps://jadeisfalling@gmail.com@smtp.gmail.com:465/"
-set imap_user = "jadeisfalling@gmail.com"
 set folder = "imaps://imap.gmail.com:993"
 set spoolfile = "+INBOX"
 set ssl_force_tls = yes

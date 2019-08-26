@@ -1,8 +1,8 @@
 # This is Git's per-user configuration file.
 [user]
-  name = Jade Meskill
-  email = jade.meskill@gmail.com
-  signingkey = jade.meskill@gmail.com
+  name = Aaron Herres
+  email = iam@aaronherres.com
+  #signingkey
 
 [core]
   editor = vim

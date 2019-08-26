@@ -7,6 +7,6 @@ my dotfiles
 
 ## Update  ~/.rcrc
 ```shell
-DOTFILES_DIRS="/Users/jmeskill/Projects/iamruinous/dotfiles"
+DOTFILES_DIRS="/Users/redaphid/Projects/dotfiles"
 EXCLUDES="README.md LICENSE rcrc"
 ```
